@@ -33,12 +33,6 @@
 
 ---
 
-## 🎨 Screenshots (Add Your Own)
-> _You can add screenshots here using the following markdown format:_  
-> `![Screenshot](https://your-image-url.com)`
-
----
-
 ## 🔧 How It Works
 1. The extension injects JavaScript into the webpage.
 2. It finds all **radio buttons** on the page.
